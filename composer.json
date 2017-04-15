@@ -1,0 +1,17 @@
+{
+    "name": "alfonsosiloniz/chartist-plugin-legend",
+    "version": "v0.6.1",
+    "description": "Composer version of chartist-plugin-legend",
+    "authors": [
+        {
+            "name": "Alfonso Siloniz",
+            "email": "alfonsosiloniz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+	     "bower-asset/chartist": "~0.11.0"
+
+    }
+
+}
