@@ -1,6 +1,5 @@
 {
     "name": "alfonsosiloniz/chartist-plugin-legend",
-    "version": "v0.6.1",
     "description": "Composer version of chartist-plugin-legend",
     "authors": [
         {
