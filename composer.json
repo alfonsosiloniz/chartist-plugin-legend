@@ -9,7 +9,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-	     "bower-asset/chartist": "~0.11.0"
+	     "bower-asset/chartist": "~0.11"
 
     }
 
